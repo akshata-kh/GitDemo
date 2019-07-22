@@ -16,4 +16,9 @@ public class RestapiTest {
 		System.out.println("windowauomation");
 	}
 	
+	@Test
+	public void mercuryauomation()
+	{
+		System.out.println("mercuryauomation");
+	}
 }

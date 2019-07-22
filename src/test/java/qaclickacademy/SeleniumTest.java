@@ -18,4 +18,11 @@ public class SeleniumTest {
 		System.out.println(" webbrowser");
 	}
 
+
+	@Test
+	public void mobbrowser()
+	{
+		System.out.println(" mobbrowser");
+	}
+
 }
