@@ -9,6 +9,9 @@ public class AppiumTest {
 	{
 		System.out.println("postjira1");
 		System.out.println("postjira2");
+		//rfwtw4
+		//gggrg
+		System.out.println("postjira2");
 	}
 	
 	@Test

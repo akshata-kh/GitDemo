@@ -8,6 +8,7 @@ public class SeleniumTest {
 	public void nativeapps()
 	{
 		System.out.println("nativeapps");
+		System.out.println("playstoreapps");
 	}
 	
 
