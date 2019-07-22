@@ -24,5 +24,12 @@ public class SeleniumTest {
 	{
 		System.out.println(" mobbrowser");
 	}
+	
+
+	@Test
+	public void tabbrowser()
+	{
+		System.out.println(" tabbrowser");
+	}
 
 }
