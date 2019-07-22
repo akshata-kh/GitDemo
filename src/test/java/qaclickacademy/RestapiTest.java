@@ -1,0 +1,19 @@
+package qaclickacademy;
+
+import org.testng.annotations.Test;
+
+public class RestapiTest {
+	
+	@Test
+	public void webautomation()
+	{
+		System.out.println("webautomation");
+	}
+	
+	@Test
+	public void windowauomation()
+	{
+		System.out.println("windowauomation");
+	}
+	
+}

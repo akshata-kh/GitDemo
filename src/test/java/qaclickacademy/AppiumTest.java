@@ -1,0 +1,20 @@
+package qaclickacademy;
+
+import org.testng.annotations.Test;
+
+public class AppiumTest {
+	
+	@Test
+	public void deletetwitter()
+	{
+		System.out.println("deletetwitter");
+	}
+	
+	@Test
+	public void mobilebrowser()
+	{
+		System.out.println("mobilebrowser");
+	}
+	
+
+}

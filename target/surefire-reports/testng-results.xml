@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+      <class name="qaclickacademy.RestapiTest">
+        <test-method status="PASS" signature="webautomation()[pri:0, instance:qaclickacademy.RestapiTest@5649fd9b]" name="webautomation" duration-ms="15" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webautomation -->
+        <test-method status="PASS" signature="windowauomation()[pri:0, instance:qaclickacademy.RestapiTest@5649fd9b]" name="windowauomation" duration-ms="0" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- windowauomation -->
+      </class> <!-- qaclickacademy.RestapiTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="nativeapps()[pri:0, instance:qaclickacademy.SeleniumTest@6adede5]" name="nativeapps" duration-ms="0" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeapps -->
+        <test-method status="PASS" signature="webbrowser()[pri:0, instance:qaclickacademy.SeleniumTest@6adede5]" name="webbrowser" duration-ms="0" started-at="2019-07-09T17:18:15 IST" finished-at="2019-07-09T17:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webbrowser -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
